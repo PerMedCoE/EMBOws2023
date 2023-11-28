@@ -9,7 +9,7 @@ This repository contains the following:
 - **[Book of Abstracts](./docs/EMBO_Computational_models_of_life_Book_of_Abstracts.pdf)**: A collection of abstracts from the presentations and posters at the workshop.
 - **[Program](./docs/EMBO_Computational_Models_of_Life_Overview_Schedule.pdf)**: The schedule and program of the workshop.
 - **[Flash talks session distributions](https://docs.google.com/spreadsheets/d/1OEES7Y0Tojb-oGTP-Nl85eVbYlJlI_KElceu023hKr0/edit#gid=0)**
-- **[Career Paths Session](./docs/Career Paths Session_Speakers.pdf)**
+- **[Career Paths Session](./docs/Career_Paths_Session_Speakers.pdf)**
   
 ## Contributing
 
